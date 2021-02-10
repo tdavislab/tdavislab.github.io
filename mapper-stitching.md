@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
+title: Mapper Stitching
 layout: default
-filename: NAME OF THIS .md FILE HERE
+filename: mapper-stitching.md
 --- 
 
 ## Mapper Stitching Documentation
